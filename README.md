@@ -2,9 +2,9 @@ Product Listing App
 A React-based web application that displays a list of products, allowing users to search and sort by name and price.
 
 Features
-1.Displays a list of products with images, names, descriptions, and prices
-2.Search functionality by product name
-3.Sorting functionality by price (low to high and high to low)
+.Displays a list of products with images, names, descriptions, and prices
+.Search functionality by product name
+.Sorting functionality by price (low to high and high to low)
 Requirements
 - Node.js (version 14 or higher)
 - npm (version 6 or higher)
